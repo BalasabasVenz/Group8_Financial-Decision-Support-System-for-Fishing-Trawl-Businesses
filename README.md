@@ -1,5 +1,4 @@
 composer install
-
 npm.cmd install
 copy .env.example .env
 php artisan key:generate
